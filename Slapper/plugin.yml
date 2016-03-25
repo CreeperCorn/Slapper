@@ -1,7 +1,7 @@
-name: Slapper
+name: Entity
 author: jojoe77777
-version: 1.2.9.3
-description: Adds entities into your world that you can slap to run commands!
+version: 1.0
+description: Adds entities into your world that you can touch to run commands!
 main: slapper\main
 api: [1.12.0]
 commands:
