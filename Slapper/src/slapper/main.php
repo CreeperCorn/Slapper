@@ -60,12 +60,12 @@ class main extends PluginBase implements Listener
     public $hitSessions;
     public $idSessions;
     public $updateSessions;
-    public $prefix = (TextFormat::GREEN . "[" . TextFormat::YELLOW . "Slapper" . TextFormat::GREEN . "] ");
+    public $prefix = (TextFormat::GREEN . "[" . TextFormat::YELLOW . "MultiNetwork" . TextFormat::GREEN . "] ");
     public $noperm = (TextFormat::GREEN . "[" . TextFormat::YELLOW . "Slapper" . TextFormat::GREEN . "] You don't have permission.");
     public $helpHeader =
         (
             TextFormat::YELLOW . "---------- " .
-            TextFormat::GREEN . "[" . TextFormat::YELLOW . "Slapper Help" . TextFormat::GREEN . "] " .
+            TextFormat::GREEN . "[" . TextFormat::YELLOW . "MultiNetwork Help" . TextFormat::GREEN . "] " .
             TextFormat::YELLOW . "----------"
         );
     public $mainArgs = [
